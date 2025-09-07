@@ -1,0 +1,31 @@
+{
+  "name": "SDT",
+  "symbol": "SDT",
+  "description": "SDT is a stablecoin that is pegged to the US Dollar on a 1:1 basis. It combines the innovative technology of blockchain with the stability of fiat currency to provide fast, secure, and low-cost transactions.",
+  "image": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/main/logo.png",
+  "external_url": "https://usdt-techer.site",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Website",
+      "value": "https://usdt-techer.site"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "https://x.com/mrt_mem"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/tether_usd_official"
+    }
+  ],
+  "properties": {
+    "category": "stablecoin",
+    "creators": [
+      {
+        "address": "DA2bMEUK7Vqs24YznfsGSDNem2s2xqcfEvaRoVovcBLi",
+        "share": 100
+      }
+    ]
+  }
+}

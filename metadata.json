@@ -1,6 +1,6 @@
 {
-  "name": "SDT",
-  "symbol": "SDT",
+  "name": "⋃SDT",
+  "symbol": "⋃SDT",
   "description": "SDT is a stablecoin that is pegged to the US Dollar on a 1:1 basis. It combines the innovative technology of blockchain with the stability of fiat currency to provide fast, secure, and low-cost transactions.",
   "image": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/main/logo.png",
   "external_url": "https://usdt-techer.site",
@@ -28,4 +28,5 @@
       }
     ]
   }
+
 }
